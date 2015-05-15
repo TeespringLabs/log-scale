@@ -4,7 +4,7 @@
   "description": "Conversions and calculations on a logarithmic scale",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/TeespringLabs/log-scale/issues"
   },
-  "homepage": "https://github.com/TeespringLabs/log-scale"
+  "homepage": "https://github.com/TeespringLabs/log-scale",
+  "devDependencies": {
+    "jasmine": "^2.3.1"
+  }
 }
