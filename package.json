@@ -1,0 +1,26 @@
+{
+  "name": "log-scale",
+  "version": "1.0.0",
+  "description": "Conversions and calculations on a logarithmic scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TeespringLabs/log-scale"
+  },
+  "keywords": [
+    "logarithm",
+    "logarithmic",
+    "log",
+    "scale",
+    "graph"
+  ],
+  "author": "Teespring",
+  "license": "Apache v2.0",
+  "bugs": {
+    "url": "https://github.com/TeespringLabs/log-scale/issues"
+  },
+  "homepage": "https://github.com/TeespringLabs/log-scale"
+}
