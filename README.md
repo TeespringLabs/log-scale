@@ -1,6 +1,6 @@
 # log-scale
 
-Logarithmic scale class that helps with conversions and calculations
+log-scale is a logarithmic scale class that helps with conversions and calculations.
 
 ## Usage
 

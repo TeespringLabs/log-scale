@@ -1,8 +1,8 @@
 {
   "name": "log-scale",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conversions and calculations on a logarithmic scale",
-  "main": "index.js",
+  "main": "log_scale.js",
   "scripts": {
     "test": "jasmine"
   },
